@@ -67,8 +67,25 @@ textarea {
 	border-radius: 20px;
 	box-shadow: 15px 5px 10px #48529944;
 }
-.footer {
+.footer{
     padding: 20px 0;
 	background-color: rgb(221, 195, 248);
     text-align: center;
   }
+footer .fa{
+    border-radius: 50%;
+    padding:10px;
+    font-weight: 400;
+    text-decoration: none;
+    font-size:28px;
+}
+
+.fa-linkedin{
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github{
+    background: black;
+    color: white;
+}
