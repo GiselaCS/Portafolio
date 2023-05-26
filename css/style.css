@@ -1,0 +1,74 @@
+body {
+    padding-top: 60px; 
+	background-color: rgb(235, 225, 245);
+  }
+
+h1{
+  background: -webkit-linear-gradient(rgb(98, 0, 255),rgb(255, 0, 242));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   color: rgb(166, 71, 255);  
+}
+a:hover{
+  background: -webkit-linear-gradient(rgb(98, 0, 255),rgb(255, 0, 242));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   color: rgb(166, 71, 255);  
+}
+nav{
+	box-shadow: 15px 5px 10px #48529944;
+}
+#caja{
+  border-radius: 15px;
+  box-shadow: 15px 5px 10px #48529944;
+  
+}
+
+.cardt{
+	box-shadow: 15px 5px 10px #48529944;
+	background-color: white;
+    box-sizing: border-box;
+	border: 2px thin black;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+.cardt:hover{
+	border: 2px solid rgb(77, 0, 128);
+	transition: 1s;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+.carde{
+	box-shadow: 15px 5px 10px #48529944;
+}
+.cardp{
+	box-shadow: 15px 5px 10px #48529944;
+}
+.contacto {
+	max-width: 600px;
+	margin-top: 50px;
+  }
+textarea {
+	resize: none;
+  }
+.formulario{
+	background: white;
+	padding: 30px;
+	border-radius: 20px;
+	box-shadow: 15px 5px 10px #48529944;
+}
+.footer {
+    padding: 20px 0;
+	background-color: rgb(221, 195, 248);
+    text-align: center;
+  }
