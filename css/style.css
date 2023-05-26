@@ -4,7 +4,7 @@ body {
   }
 
 h1{
-  background: -webkit-linear-gradient(rgb(98, 0, 255),rgb(0, 204, 255));
+  background: -webkit-linear-gradient(rgb(98, 0, 255),rgb(0, 110, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
    color: rgb(166, 71, 255);  
