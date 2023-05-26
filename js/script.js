@@ -13,7 +13,7 @@ document.getElementById("contactForm").addEventListener("submit", function(event
   };
 
   // Enviar los datos del formulario al servidor utilizando Fetch
-  fetch("url_del_servidor", {
+  fetch("https://giselacs.github.io/Portafolio/", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
