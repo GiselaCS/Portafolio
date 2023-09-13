@@ -20,7 +20,6 @@ nav{
 }
 #principal{
   clip-path: circle(50%);
-  border-radius: 20px;
   box-shadow: 15px 5px 10px #48529944;
 }
 #caja{
